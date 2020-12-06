@@ -12,22 +12,22 @@ export class CourseListComponent implements OnInit {
         this.courses = [
             {
                 id: 1,
-                name: 'Angualar: Forms',
+                name: 'Angular: Forms',
                 imageUrl: '/assets/images/forms.png',
                 price: 99.99,
                 code: 'XPS-8796',
                 duration: 120,
-                rating: 5.4,
+                rating: 4.5,
                 releaseDate: 'December, 25, 2020',
             },
             {
                 id: 2,
-                name: 'Angualar: HTTP',
+                name: 'Angular: HTTP',
                 imageUrl: '/assets/images/http.png',
                 price: 299.99,
                 code: 'XPS-8796',
                 duration: 120,
-                rating: 5.4,
+                rating: 4.5,
                 releaseDate: 'December, 31, 2020',
             }
         ]
